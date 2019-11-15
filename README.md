@@ -1,2 +1,4 @@
-# Initial page
+# FAQ
+
+![](.gitbook/assets/xwvzt.png)
 
